@@ -44,7 +44,7 @@ module.exports = function(grunt) {
               'public/css/git-grunt-test-public.css': 'src/public/scss/public.scss'
             }
           }
-        },
+        }
     });
 
     grunt.loadNpmTasks('grunt-contrib-uglify');
