@@ -1,0 +1,47 @@
+/**
+ * Survey feedbacks
+ */
+.pafb-rate-box {
+  overflow: hidden;
+  text-align: center;
+  width: 145px;
+  border: 2px solid #72bb53;
+  color: #72bb53;
+  float: left;
+  margin: 0 15px 15px 0;
+}
+
+.pafb-rate-box .rate {
+  font-size: 40px;
+  line-height: 1em;
+  font-weight: 100;
+  margin: 10px 0;
+}
+
+.pafb-rate-box span {
+  font-size: 10px;
+  line-height: 1.6em;
+  display: block;
+  height: 43%;
+  color: #000;
+  padding: 0 5px 10px;
+}
+
+#feedback-table thead, #feedback-table tfoot {
+  font-size: 11px;
+}
+
+#feedback-table tbody {
+  font-size: 13px;
+}
+
+#feedback-table tbody tr {
+  text-align: center;
+}
+
+/**
+ * Reports page styles
+ */
+.pafb-reports-section #pafb-feedback-chart, .pafb-reports-section #pafb-feedback-rating-chart {
+  padding: 10px;
+}
