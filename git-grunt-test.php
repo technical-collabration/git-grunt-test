@@ -17,22 +17,6 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 /**
- * Skelet Config
- */
-//$skelet_paths[] = array(
-//    'prefix'      => 'xxxx',
-//    'dir'         => wp_normalize_path(  plugin_dir_path( __FILE__ ).'/admin/' ),
-//    'uri'         => plugin_dir_url( __FILE__ ).'/admin/skelet',
-//);
-
-/**
- * Load Skelet Framework
- */
-if( ! class_exists( 'Skelet_LoadConfig' ) ){
-        include_once dirname( __FILE__ ) .'/admin/skelet/skelet.php';
-}
-
-/**
  * The code that runs during plugin activation.
  * This action is documented in includes/class-git-grunt-test-activator.php
  */
