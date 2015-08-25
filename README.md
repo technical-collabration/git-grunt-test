@@ -2,7 +2,7 @@
 
 Basic Git and [Grunt](http://gruntjs.com/) skills test, there is no coding as such involved in this test. If you are already using Git and [Grunt](http://gruntjs.com/) the test should't take more then five minutes.
 
-## Prerequisite
+
 This test requires Grunt installed globaly [Grunt](http://gruntjs.com/getting-started).
 
 1. Fork this repository, you will need a Github account 
